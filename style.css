@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.footer{
+    background-color: rgb(19, 23, 99);
+    color: aliceblue;
+    display: flex;
+    flex-flow:row nowrap; 
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 10px;
+}
