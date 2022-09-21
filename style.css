@@ -37,7 +37,7 @@ img{
 }
 
 .about{
-    background-color: gray;
+    background-color: rgb(180, 195, 233);
     padding: 20px;
 }
 
@@ -67,4 +67,14 @@ ul{
     align-items: center;
     margin: 0;
     padding: 10px;
+}
+
+.subtitle{
+    text-align: center;
+    font-size: large;
+}
+
+.title{
+    font-size: larger;
+    font-weight: 800;
 }

@@ -9,7 +9,7 @@ Images were all retrieved from Pexels.
 
 Credit for individual images
 AI: Tara Winstead
-Solar: Tom Fisk
+Solar: Flash Dantz
 Programming: Ricardo Ortiz
 Electricity: Pixabay
 
