@@ -29,9 +29,16 @@ img{
     height: auto;
 }
 
-.banner, .container, .about{
+.banner, .container{
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+}
+
+.container_box, .about {
+    display: flex;
+    justify-content: space-evenly;
     align-items: center;
     gap: 10px;
 }
