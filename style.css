@@ -1,7 +1,8 @@
 body{
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: flex-end;
+    
     margin:0;
 }
 
@@ -79,6 +80,7 @@ ul{
 .subtitle{
     text-align: center;
     font-size: large;
+    color: black;
 }
 
 .title{
